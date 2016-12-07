@@ -1,1 +1,2 @@
-# Some solution for problems in leetco(Python)
+# Some solutions for problems in leetcode(Python)
+.
